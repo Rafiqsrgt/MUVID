@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Dec 2025 13:52:20 at https://themewagon.github.io/Muvid/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themewagon.github.io/Muvid/ -O1 "C:\Users\rafiq\OneDrive\Desktop\Clean\MUVID" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:52:45	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/images/fevicon.png (from https://themewagon.github.io/Muvid/)
+13:52:46	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/owl.theme.default.min.css (from https://themewagon.github.io/Muvid/)
+13:52:47	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/js/owl.carousel.js (from https://themewagon.github.io/Muvid/)
+13:52:47	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js (from https://themewagon.github.io/Muvid/)
+13:52:48	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/css/font-awesome.min.css (from https://themewagon.github.io/Muvid/css/style.css)
+13:52:48	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/swiper.min.css (from https://themewagon.github.io/Muvid/css/style.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/mCSB_buttons.png (from https://themewagon.github.io/Muvid/css/jquery.mCustomScrollbar.min.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/owl.video.play.png (from https://themewagon.github.io/Muvid/css/owl.carousel.min.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/fonts/IcoMoon-Free.ttf (from https://themewagon.github.io/Muvid/css/icomoon.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_444444_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_555555_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_ffffff_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_777620_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_cc0000_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+13:52:51	Error: 	"Not Found" (404) at link https://themewagon.github.io/Muvid/css/images/ui-icons_777777_256x240.png (from https://themewagon.github.io/Muvid/css/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 seconds : 69 links scanned, 53 files written (3535424 bytes overall) [2441841 bytes received at 78769 bytes/sec], 1772498 bytes transferred using HTTP compression in 46 files, ratio 27%, 9.8 requests per connection
+(15 errors, 0 warnings, 0 messages)
